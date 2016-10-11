@@ -1,0 +1,22 @@
+<concert>
+  <arg name="zeroconf" default="true"/>
+
+  <launch title="concert:11311" package="chatter_concert" name="concert.launch" port="11311">
+    <arg name="zeroconf" value="$(arg zeroconf)"/>
+  </launch>
+  <launch title="dudette:11312"    package="chatter_concert" name="dudette.launch" port="11312">
+    <arg name="zeroconf" value="$(arg zeroconf)"/>
+  </launch>
+  <launch title="dude:11313"    package="chatter_concert" name="dude.launch" port="11313">
+    <arg name="zeroconf" value="$(arg zeroconf)"/>
+  </launch>
+  <launch title="dude:11314"    package="chatter_concert" name="dude.launch" port="11314">
+    <arg name="zeroconf" value="$(arg zeroconf)"/>
+  </launch>
+
+  <!-- Accessories to Murder (uncomment for some useful debugging shells) -->
+  <!--
+  <launch title="graph:11311"    package="chatter_concert" name="conductor_graph.launch" port="11311"/>
+  <launch title="remote_gateway_info:11311"    package="chatter_concert" name="remote_gateway_info.launch" port="11311"/>
+   -->
+</concert>

@@ -1,0 +1,15 @@
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/lib/libfreenect2.so.0.2.0
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/lib/libfreenect2.so.0.2
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/lib/libfreenect2.so
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/frame_listener_impl.h
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/registration.h
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/packet_pipeline.h
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/frame_listener.hpp
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/logger.h
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/libfreenect2.hpp
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/config.h
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/include/libfreenect2/export.h
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/lib/cmake/freenect2/freenect2Config.cmake
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/lib/pkgconfig/freenect2.pc
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/lib/OpenNI2/Drivers/libfreenect2-openni2.so.0
+/home/yoshi/catkin_ws/src/kinectv2/libfreenect2/build/freenect2/lib/OpenNI2/Drivers/libfreenect2-openni2.so

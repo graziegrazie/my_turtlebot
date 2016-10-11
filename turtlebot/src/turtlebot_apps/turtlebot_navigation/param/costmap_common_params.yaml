@@ -1,0 +1,10 @@
+obstacle_range: 3.5
+raytrace_range: 4.0
+robot_radius: 0.5
+infraltion_radius: 1.0
+
+observation_sources: laser_scan_sensor
+
+laser_scan_sensor: { sensor_frame: base_kinect2_link, data_type: LaserSensor, topic: scan, marking: true, clearing: true}
+
+
